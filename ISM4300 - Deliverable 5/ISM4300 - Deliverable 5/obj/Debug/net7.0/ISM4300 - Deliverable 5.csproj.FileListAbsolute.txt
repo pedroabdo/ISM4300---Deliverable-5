@@ -1,0 +1,15 @@
+/Users/pedronader/Projects/ISM4300 - Deliverable 5/ISM4300 - Deliverable 5/bin/Debug/net7.0/ISM4300 - Deliverable 5
+/Users/pedronader/Projects/ISM4300 - Deliverable 5/ISM4300 - Deliverable 5/bin/Debug/net7.0/ISM4300 - Deliverable 5.deps.json
+/Users/pedronader/Projects/ISM4300 - Deliverable 5/ISM4300 - Deliverable 5/bin/Debug/net7.0/ISM4300 - Deliverable 5.runtimeconfig.json
+/Users/pedronader/Projects/ISM4300 - Deliverable 5/ISM4300 - Deliverable 5/bin/Debug/net7.0/ISM4300 - Deliverable 5.dll
+/Users/pedronader/Projects/ISM4300 - Deliverable 5/ISM4300 - Deliverable 5/bin/Debug/net7.0/ISM4300 - Deliverable 5.pdb
+/Users/pedronader/Projects/ISM4300 - Deliverable 5/ISM4300 - Deliverable 5/obj/Debug/net7.0/ISM4300 - Deliverable 5.csproj.AssemblyReference.cache
+/Users/pedronader/Projects/ISM4300 - Deliverable 5/ISM4300 - Deliverable 5/obj/Debug/net7.0/ISM4300 - Deliverable 5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedronader/Projects/ISM4300 - Deliverable 5/ISM4300 - Deliverable 5/obj/Debug/net7.0/ISM4300 - Deliverable 5.AssemblyInfoInputs.cache
+/Users/pedronader/Projects/ISM4300 - Deliverable 5/ISM4300 - Deliverable 5/obj/Debug/net7.0/ISM4300 - Deliverable 5.AssemblyInfo.cs
+/Users/pedronader/Projects/ISM4300 - Deliverable 5/ISM4300 - Deliverable 5/obj/Debug/net7.0/ISM4300 - Deliverable 5.csproj.CoreCompileInputs.cache
+/Users/pedronader/Projects/ISM4300 - Deliverable 5/ISM4300 - Deliverable 5/obj/Debug/net7.0/ISM4300 - Deliverable 5.dll
+/Users/pedronader/Projects/ISM4300 - Deliverable 5/ISM4300 - Deliverable 5/obj/Debug/net7.0/refint/ISM4300 - Deliverable 5.dll
+/Users/pedronader/Projects/ISM4300 - Deliverable 5/ISM4300 - Deliverable 5/obj/Debug/net7.0/ISM4300 - Deliverable 5.pdb
+/Users/pedronader/Projects/ISM4300 - Deliverable 5/ISM4300 - Deliverable 5/obj/Debug/net7.0/ISM4300 - Deliverable 5.genruntimeconfig.cache
+/Users/pedronader/Projects/ISM4300 - Deliverable 5/ISM4300 - Deliverable 5/obj/Debug/net7.0/ref/ISM4300 - Deliverable 5.dll
